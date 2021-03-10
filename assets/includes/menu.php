@@ -27,12 +27,12 @@ require_once("functions.php");
                 </form>
               </div>
             </li>';
-        //if(verif_auth(INSCRIT))
-        //{echo'
-        //    <li><a class="nav-link scrollto" href="#">Déconnexion</a></li>';
-        //    <li><a class="nav-link scrollto" href="index.php">Compte</a></li>';
-        //}
-         //else
+        if(isset($_SESSION['user_login']))
+        {echo'
+            <li><a class="nav-link scrollto" href="logout.php">Déconnexion</a></li>
+            <li><a class="nav-link scrollto" href="admin.php">Compte</a></li>';
+        }
+        else
         {echo'
             <li><a class="nav-link scrollto" href="login.php">Connexion</a>
             </li>';
