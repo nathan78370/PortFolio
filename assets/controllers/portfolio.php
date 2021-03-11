@@ -147,8 +147,10 @@
                           </div>
                         </div>
                       </div>
-                      
-                    <div class="col-md-4 column123 DevWeb">
+                      <h3 class="text-center">tutuuuuuu</h3>                      
+            <?php foreach ($projets as $projet) { ?>
+                <div class="col-md-4 column123 DevWeb">
+                
                     <div class="work-box">
                         <a
                             href="assets/img/PortFolio-1/Taff-1.png"
@@ -161,7 +163,7 @@
                         <div class="work-content">
                             <div class="row">
                                 <div class="col-sm-8">
-                                <h2 class="w-title">Cabinet Médical</h2>
+                                <h2 class="w-title"><?= $projet['titre'] ?></h2>
                                     <div class="w-more">
                                         <span class="w-ctegory">Développement Web</span> /
                                         <span class="w-date">2019</span>
@@ -178,7 +180,7 @@
                         </div>
                     </div>
                 </div>
-
+            <?php } ?>
                     </div>
                   </div>
                 </div>

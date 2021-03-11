@@ -4,6 +4,7 @@ $db_user="root";	//database username
 $db_password="root";	//database password   
 $db_name="portfolio";	//database name
 
+function connectBDD(){
 try
 {
 	$db=new PDO("mysql:host={$db_host};dbname={$db_name}",$db_user,$db_password);
@@ -13,5 +14,5 @@ catch(PDOEXCEPTION $e)
 {
 	$e->getMessage();
 }
-
+}
 ?>
