@@ -24,36 +24,38 @@
                 </ul>
               </div>
           
-                <div class="col-md-4 column123 DevWeb">
+                
+                <div class="col-md-4 column123 Stage">
                     <div class="work-box">
-                        <a
-                            href="assets/img/PortFolio-1/Taff-1.png"
+                          <a
+                            href="assets/img/Portfolio-1/Taff-1.png"
                             data-gallery="portfolioGallery"
-                            lass="portfolio-lightbox">
-                                <div class="work-img">
-                                    <img src="assets/img/PortFolio-1/Taff-1.png" alt="" class="img-fluid" />
-                                </div>
+                            class="portfolio-lightbox"
+                          >
+                          <div class="work-img">
+                            <img src="assets/img/PortFolio-1/Taff-1.png" alt="" class="img-fluid" />
+                          </div>
                         </a>
                         <div class="work-content">
-                            <div class="row">
-                                <div class="col-sm-8">
-                                <h2 class="w-title">Cabinet Médical</h2>
-                                    <div class="w-more">
-                                        <span class="w-ctegory">Développement Web</span> /
-                                        <span class="w-date">2019</span>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="w-like">
-                                        <a href="Taff-1.php"> 
-                                            <span class="bi bi-plus-circle"></span>
-                                        </a>
-                                    </div>
-                                </div>
+                          <div class="row">
+                            <div class="col-sm-8">
+                            <h2 class="w-title">Cabinet Médical</h2>
+                            <div class="w-more">
+                            <span class="w-ctegory">Développement Web</span> /
+                            <span class="w-date">2019</span>
                             </div>
+                              </div>
+                                <div class="col-sm-4">
+                                  <div class="w-like">
+                                  <a href="Taff-1.php">
+                                    <span class="bi bi-plus-circle"></span
+                                  ></a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
                         </div>
-                    </div>
-                </div>
                 <div class="col-md-4 column123 Stage">
                     <div class="work-box">
                           <a
