@@ -25,7 +25,7 @@
               </div>
           
                 
-                <div class="col-md-4 column123 Stage">
+                <div class="col-md-4 column123 DevWeb">
                     <div class="work-box">
                           <a
                             href="assets/img/Portfolio-1/Taff-1.png"
