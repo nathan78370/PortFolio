@@ -29,8 +29,8 @@ require_once("functions.php");
             </li>';
         if(isset($_SESSION['user_login']))
         {echo'
-            <li><a class="nav-link scrollto" href="logout.php">Déconnexion</a></li>
-            <li><a class="nav-link scrollto" href="admin.php">Compte</a></li>';
+           <li><a class="nav-link scrollto" href="logout.php">Déconnexion</a></li>
+           <li><a class="nav-link scrollto" href="admin.php">Compte</a></li>';
         }
         else
         {echo'
