@@ -6,7 +6,7 @@ session_start();
 
 if(isset($_SESSION["user_login"]))	//check condition user login not direct back to index.php page
 {
-	header("location: admin.php");
+	header("location: index.php");
 }
 
 if(isset($_REQUEST['btn_login']))	//button name is "btn_login" 
@@ -40,7 +40,7 @@ if(isset($_REQUEST['btn_login']))	//button name is "btn_login"
 					{
 						$_SESSION["user_login"] = $row["user_id"];	//session name is "user_login"
 						$loginMsg = "Successfully Login...";		//user login success message
-						header("refresh:2; admin.php");			//refresh 2 second after redirect to "welcome.php" page
+						header("refresh:1; index.php");			//refresh 2 second after redirect to "welcome.php" page
 					}
 					else
 					{
