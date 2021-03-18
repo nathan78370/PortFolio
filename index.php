@@ -267,12 +267,8 @@ include("assets/includes/menu.php");
           <div class="col-sm-12">
             <div class="copyright-box">
               <p class="copyright">
-                &copy; Copyright <strong>PortFolio</strong>. All Rights Reserved
+                &copy; Copyright <strong>PortFolioNathan</strong>. All Rights Reserved
               </p>
-              <div class="credits">
-                Designed by
-                <a href="https://bootstrapmade.com/">BootstrapMade</a>
-              </div>
             </div>
           </div>
         </div>

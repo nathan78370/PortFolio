@@ -17,6 +17,7 @@ require_once("functions.php");
             <li><a class="nav-link scrollto active" href="#fond">Home</a></li>
             <li><a class="nav-link scrollto" href="#about">Présentation</a></li>
             <li><a class="nav-link scrollto" href="index.php#work">PortFolio</a></li>
+            <li><a class="nav-link scrollto" href="index.php#veille">Veille</a></li>
             <li>
               <div class="container-fluid">
                 <form class="d-flex">
