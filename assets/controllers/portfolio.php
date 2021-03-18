@@ -149,7 +149,7 @@
                           </div>
                         </div>
                       </div>
-                      <h3 class="text-center">tutuuuuuu</h3>                      
+                     <!-- <h3 class="text-center">tutuuuuuu</h3> -->                      
             <?php foreach ($projets as $projet) { ?>
                 <div class="col-md-4 column123 DevWeb">
                 

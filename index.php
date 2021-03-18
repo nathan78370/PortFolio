@@ -258,6 +258,7 @@ include("assets/includes/menu.php");
     </main>
     <!-- End #main -->
     <?php include("assets/controllers/portfolio.php") ?>
+    <?php include("assets/juridique/juridique.php") ?>
 
     <!-- ======= Footer ======= -->
     <footer>
