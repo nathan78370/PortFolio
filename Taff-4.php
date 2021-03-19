@@ -75,7 +75,10 @@ include("assets/includes/menu.php");
               <div class="portfolio-description">
                 <h2>Le PPE</h2>
                 <p>
-                  Parti a compléter plus tard
+                  Le PPE est un projet en groupe se déroulant en 2 ans, 
+                  il a pour but de mettre tout nôtre savoir en pratique. 
+                  Le sujet de ce projet est de créer un site permettant à 
+                  des utilisateurs de passer des commandes en ligne de pièce détacher de voiture.
                 </p>
               </div>
             </div>
@@ -85,9 +88,6 @@ include("assets/includes/menu.php");
                   <br>
               <p>
                 Parti a compléter plus tard
-              </br>
-                Parti a compléter plus tard
-
               </p>
                   <br>
             </div>
