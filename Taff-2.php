@@ -64,9 +64,9 @@ include("assets/includes/menu.php");
                   <li><strong>Catégorie</strong>: Stage</li>
                   <li><strong>Language</strong>: CSS, JavaScript</li>
                   <li><strong>Project date</strong>: 16 Nov. - 18 Déc. 2020</li>
-                  <!--<li>
+                  <li>
                     <strong>Lien du Project</strong>: <a> </a><a href="assets/doc/Rapport-de-Stage.pdf">Rapport de Stage</a>
-                  </li>-->
+                  </li>
                 </ul>
               </div>
               

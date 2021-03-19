@@ -63,12 +63,12 @@ include("assets/includes/menu.php");
               <div class="portfolio-info">
                 <h3>Information</h3>
                 <ul>
-                  <li><strong>Catégorie</strong>: Stage</li>
+                  <li><strong>Catégorie</strong>: PPE</li>
                   <li><strong>Language</strong>: CSS, JavaScript</li>
-                  <li><strong>Project date</strong>: 16 Nov. - 18 Déc. 2020</li>
-                  <!--<li>
-                    <strong>Lien du Project</strong>: <a> </a><a href="assets/doc/Rapport-de-Stage.pdf">Rapport de Stage</a>
-                  </li>-->
+                  <li><strong>Project date</strong>: 2020 - 2021</li>
+                  <li>
+                    <strong>Lien du Project</strong>: <a> </a><a href="https://github.com/nathan78370/PPE">GitHub</a>
+                  </li>
                 </ul>
               </div>
               

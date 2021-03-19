@@ -62,9 +62,9 @@ include("assets/includes/menu.php");
                   <li><strong>Catégorie</strong>: PPE</li>
                   <li><strong>Language</strong>: HTML, PHP, SQL</li>
                   <li><strong>Project date</strong>: 2020 - 2019</li>
-                  <!--<li>
-                    <strong>Lien du Project</strong>: <a> </a><a href="#">Cabinet</a>
-                  </li>-->
+                  <li>
+                    <strong>Lien du Project</strong>: <a> </a><a href="https://github.com/nathan78370/Cabinet">GitHub</a>
+                  </li>
                 </ul>
               </div>
               
